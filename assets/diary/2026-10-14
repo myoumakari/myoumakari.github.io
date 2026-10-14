@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">　<!--検索避け-->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <title>日記的なやーつ</title>
+  
+
+<style>
+
+    body {
+    margin: 0;
+    padding: 0;
+    }
+
+    main {
+        padding: 0 20px;
+    }
+
+</style>
+</head>
+
+<body>
+
+<header>
+     <h2>テスト兼小ネタ解説</h2>
+</header>
+
+<main>
+    <div class="diary">
+    <p>
+      <br>やぁみんな今日もちょっとした動画の割に壮大すぎるオープニングを作ってるかい？
+      <br>ということで今回はリンクや画像を載せれるかなどの実験のついでに
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://www.youtube.com/watch?v=1B14xk7lTRY&t"><img src="../images/samune_amoasu_2026_5.png" alt="アモングアスのサムネ"width=400px height=auto;></a>
+        <a href="https://www.youtube.com/watch?v=wnvNCQPCvWI"><img src="../images/samune_kamereon_2026_10.png" alt="めっちゃカメレオンのサムネ"width=400px height=auto;></a>
+      </div>
+      <br>この二つの動画のオープニングの小ネタを解説するよ
+      <br>まだ見てないって人はそれぞれの画像をクリックしたら見れると思うから先に見てくれよな
+
+      <h3>アモアスのオープニング</h3>
+      まずはアモアスの方から
+      <br>使ってるbgmは『大乱闘スマッシュブラザーズ for WiiU』のオープニング
+      <br>0:44~0:48、2:20~2:28はスマブラOPの再現
+      <br>0:48~0:59は各コラボ相手の紹介
+      <br>紹介パートでは再現可能かつ名前の表示が可能かつ
+      <br>そのチャンネルでやったorTwitter(旧:Twitter)等で言及していたゲーム(一部を除く)
+      <table border="1">
+        <tr><th>コラボ相手</th><th>再現したゲーム名</th><th>余談</th></tr>
+        <tr><th>いりむ</th><th>ダンガンロンパ</th><th>動画内などで好きなゲームと言っていたので</th></tr>
+        <tr><th>ララカ</th><th>マリオカート64</th><th>私を構成する9つのゲームの一つにあったので採用</th></tr>
+        <tr><th>まりにあ</th><th>東方LostWard</th><th>・『ゆ』はゆっくり実況のゆ<br>・その隣にある数字はまりにあさんの誕生日</th></tr>
+        <tr><th>らしゅ</th><th>ブロスタ</th><th></th></tr>
+        <tr><th>シン21</th><th>マリオカートワールド</th><th></th></tr>
+        <tr><th>baringo</th><th>ドラゴンボール ザ ブレイカーズ</th><th></th></tr>
+        <tr><th>まいたけ</th><th>Maincraft</th><th></th></tr>
+        <tr><th>ねりや</th><th>エンドフィールド</th><th></th></tr>
+        <tr><th>さわごん</th><th>大乱闘スマッシュブラザーズSPECIAL</th><th></th></tr>
+        <tr><th>ぜろかん</th><th>桃太郎電鉄</th><th>ぜろかんは別のゲームを実況していたが、再現が難しかく他のゲームの言及が見つからなかったので電車繋がりで桃鉄にしました</th></tr>
+        <tr><th>エイミ</th><th>UNDERTALE</th><th>こちらも他のゲームを実況もしていたが、再現が難しく他のゲームの言及が見つからなかったためほぼほぼ関係がないがUNDERTALEにしました</th></tr>
+        <tr><th>リぺネオ</th><th>マリオカート8 DELUXE</th><th></th></tr>
+        <tr><th>獄卒</th><th>星のカービィロボボプラネット</th><th>タイトル画面の再現</th></tr>
+        <tr><th>みょうま</th><th>なし</th><th>疲れたので何も再現してない適当に遊んでた</th></tr>
+      </table>
+      <br>1:01~1:44コラボ相手のX(現:X)のプロフィールやYoutubeのチャンネル説明をいい感じに混ぜました
+      <br>1:45~コラボ相手の動画再現(編集時最新の動画や人気順で上位にあった動画のワンシーンを再現してるよ各チャンネルへ行って探して見てね)
+
+      <h3>カメレオンのオープニング</h3>
+      次にカメレオンの方だよ
+      <br>使ってるbgmはEightさんの『<a href="https://www.youtube.com/watch?v=BCg45_YO47Y">光剣とアリス</a>』
+      <br>0:00~0:10ここで謎の文字列があったと思うけどこれは今後どこかで使うかも...?とだけ覚えて貰うと嬉しいよ
+      <br>0:21~0:23初代スマブラのオープニングの再現
+      <br>0:48~1:00 Angel Beats!の次回予告の再現
+      <br>セリフの上の文字列は名前をローマ字にした時の最初の文字とそれぞれの誕生日
+      <br>1:48~1:57ここも各チャンネルの動画の再現だよ探してみてね
+
+      <br><br>
+      いかがだったかな今回はコラボ動画のオープニングの小ネタを軽く解説してみたよ
+      <br>たぶんまたコラボ動画作った時はまたオープニング作るしいつか解説踏まえた総集編を出すかも
+      <br>ということでここまで読んでまた新しく無駄に壮大なオープニング作ってるよと思った
+      <br><a href="https://www.youtube.com/@myoumakari">次のコラボ動画（まだ出てない）</a>はチャンネル登録、Xのフォローをよろしくな
+
+
+
+      <br><br><br>(2026/10/14)
+
+
+    </p>
+    </div>
+</main>
+
+</body>
